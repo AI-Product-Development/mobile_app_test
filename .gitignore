@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.egg-info/
+dist/
+wheels/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env/
+*.venv/
+
+# Flutter/Dart
+.flutter-plugins
+.packages
+.dart_tool/
+build/
+pubspec.lock
+.symlinks/
+.gradle/
+.idea/
+*.iml
+
+# Misc
+.DS_Store
+
